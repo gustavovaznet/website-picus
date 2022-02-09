@@ -1,0 +1,42 @@
+/*CARDS SECTION*/
+html{
+  background-color: #242424;
+}
+
+input{
+  margin-bottom: 10px;
+}
+
+h1 {
+text-align: center;
+margin-bottom: 20px;
+}
+
+.form {
+height: 80vh;
+padding: 4rem;
+}
+
+.form__container {
+display: flex;
+flex-flow: column;
+align-items: center;
+max-width: 350px;
+width: 90%;
+margin: 0 auto;
+}
+
+.form-title{
+margin-top: 60px;
+margin-bottom: 50px;
+}
+
+.form-input{
+  height: 50px;
+  width: 350px;
+  font-size: large;
+}
+
+form button{
+width: 350px;
+}
